@@ -1,3 +1,2 @@
 
-![Alt Text](noko-kanoko-anime.gif)
-![Alt Text](shikanoko-nokonoko-koshitantan-noko-kanoko.gif)
+![Alt Text](sd.gif)
