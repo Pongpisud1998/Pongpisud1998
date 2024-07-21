@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="sd.gif" alt="Coding" width="100%" />
+  <img src="shikanoko.gif" alt="Coding" width="100%" />
 </p>
