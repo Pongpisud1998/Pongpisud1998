@@ -2,6 +2,4 @@
   <img src="shikanoko.gif" alt="Coding" width="800px" />
 </p>
 
-<audio controls autoplay loop muted preload="auto">
-  <source src="シカ色デイズ.mp3" type="audio/mpeg">
-</audio>
+<iframe src="シカ色デイズ.mp" allow="autoplay" style="display:none" id="iframeAudio"></iframe>
