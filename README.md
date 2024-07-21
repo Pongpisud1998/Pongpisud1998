@@ -3,6 +3,5 @@
 </p>
 
 <audio controls>
-  <source src="https://www.example.com/path/to/your/audiofile.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
+  <source src="シカ色デイズ.mp3" type="audio/mpeg">
 </audio>
