@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="shikanoko.gif" alt="Coding" width="800px" />
+  <img src="summoners-war-lightning-summoners-war.gif" alt="Coding" width="800px" />
 </p>
 
